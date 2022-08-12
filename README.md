@@ -11,7 +11,7 @@
 
 - 💞️ I’m looking to collaborate on anything that can improve people's lives
 
-- 📫 You can contact me on my email or [personal website](https://adeolaade.com/) 
+- 📫 You can contact me via my email or on my [personal website](https://adeolaade.com/) 
 
 
 
