@@ -46,7 +46,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=gamitask)](https://github.com/Diorla/gamitask)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=character-generator)](https://github.com/Diorla/character-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=character-generator-mobile)](https://github.com/Diorla/character-generator-mobile)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=hera-spa)](https://github.com/Diorla/hera-spa)
 
