@@ -11,28 +11,30 @@
 
 - 💞️ I’m looking to collaborate on anything that can improve people's lives
 
-- 📫 You can contact me via my email or on my [personal website](https://adeolaade.com/) 
+- 📫 You can contact me via my email or on my [personal website](https://adeolaade.com/contact)
 
 
 
 ## My skills ⛏️
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=black)
-![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Figma-2c2c2c?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Git-f14e32?&style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Github-24292f?&style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Bitbucket-ffffff?&style=for-the-badge&logo=bitbucket&logoColor=0052cc)
-![](https://img.shields.io/badge/Gitlab-ffffff?&style=for-the-badge&logo=gitlab&logoColor=f96424)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScrit](https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=black)
+![React-native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactJS](https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=next.js&logoColor=white)
+![Android studio](https://img.shields.io/badge/Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2c2c2c?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f14e32?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-24292f?&style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-ffffff?&style=for-the-badge&logo=bitbucket&logoColor=0052cc)
+![Gitlab](https://img.shields.io/badge/Gitlab-ffffff?&style=for-the-badge&logo=gitlab&logoColor=f96424)
+![Electron](https://img.shields.io/badge/Electron-2c2e3a?&style=for-the-badge&logo=electron&logoColor=54c7ec)
+![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf8?&style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/diorla)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ade-adeola)
@@ -41,6 +43,8 @@
 ## 🚀 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=about-adeola)](https://github.com/Diorla/about-adeola)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=focus-forge)](https://github.com/Diorla/focus-forge)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diorla&repo=web-components)](https://github.com/Diorla/web-components)
 
