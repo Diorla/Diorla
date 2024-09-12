@@ -36,8 +36,10 @@
 ![Electron](https://img.shields.io/badge/Electron-54c7ec?&style=for-the-badge&logo=electron&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-38bdf8?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/diorla)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ade-adeola)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-dihorla-informational?style=flat&logo=x&logoColor=white&color=1CA2F1)](https://x.com/dihorla)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Adeola-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ade-adeola)
+[![Dribbble Badge](https://img.shields.io/badge/Dribbble-diorla-informational?style=flat&logo=dribbble&logoColor=white&color=ea4c89)](https://dribbble.com/diorla)
+[![Dev.to Badge](https://img.shields.io/badge/Blogs-diorla-informational?style=flat&logo=dev.to&logoColor=white&color=000000)](https://dev.to/diorla)
 
 
 ## 🚀 Projects
